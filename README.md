@@ -1,4 +1,4 @@
-# llm-fall2024: 🎓 Q&A Chatbot for Creation & Evolution
+# qna-llm-fall2024: 🎓 Q&A Chatbot for Creation & Evolution
 
 Welcome to the Q&A Chatbot repository of Nayoung!
 
